@@ -16,3 +16,14 @@
 2.two
 
 # andhra loyola institue of engineering and technology
+
+branches | no.of students
+-------------------------
+cse | 120
+-------------------------
+eee | 120
+------------------------
+ece | 200
+------------------------
+mech | 60
+------------------------
