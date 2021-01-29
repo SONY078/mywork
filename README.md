@@ -24,4 +24,5 @@ eee | 120
 ece | 200
 mech | 60
 ------------------------
-![aliet](C:\Users\aliet\Desktop\download.jpg)
+![aliet](https://images.app.goo.gl/DWnmHKmTBoz8R1wv8\download.jpg)
+![aliet]()
