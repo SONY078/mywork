@@ -24,4 +24,4 @@ eee | 120
 ece | 200
 mech | 60
 ------------------------
-![image of yaktocat](https://images.app.goo.gl/tAJkGF2k5ibDpxiFA)
+!/Desktop/download
