@@ -25,4 +25,4 @@ ece | 200
 mech | 60
 ------------------------
 ![aliet](https://images.app.goo.gl/DWnmHKmTBoz8R1wv8\download.jpg)
-![aliet]()
+![aliet](download.jpg)
