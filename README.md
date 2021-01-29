@@ -24,5 +24,5 @@ eee | 120
 ece | 200
 mech | 60
 ------------------------
-![aliet](https://www.aliet.ac.in/)
+[aliet](https://www.aliet.ac.in/)
 ![aliet](download.jpg)
